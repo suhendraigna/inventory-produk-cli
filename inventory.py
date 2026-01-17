@@ -1,7 +1,7 @@
 import json
 import os
 
-FILE_JSON = "invetory.json"
+FILE_JSON = "inventory.json"
 
 def load_data():
     if not os.path.exists(FILE_JSON):

@@ -10,5 +10,11 @@
         "nama": "Acer",
         "stok": 11,
         "harga": 12000000
+    },
+    {
+        "kode": "005",
+        "nama": "Acer Predator",
+        "stok": 5,
+        "harga": 12000000
     }
 ]
